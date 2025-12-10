@@ -1,0 +1,15 @@
+# Ambientes e arquivos sensíveis
+.env
+venv/
+.env.local
+*.pyc
+__pycache__/
+
+# Logs e caches
+robos_ibge/logs/
+robos_ibge/data/
+*.log
+
+# IDEs
+.vscode/
+.idea/
